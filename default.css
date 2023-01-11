@@ -1,0 +1,54 @@
+body {
+    background-image: url(Images/pngtree-flat-green-background-promotion-main-map-image_153895.jpeg);
+    color: white;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: none;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    color: white;
+    justify-content: space-around;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    block-size: 100px;
+    align-items: center;
+    margin-bottom: 100px;
+    border-radius: 2px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    color: yellowgreen;
+    justify-content: space-around;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: red;
+    block-size: auto;
+    align-items: center;
+    margin-left: 300px;
+    margin-right: 400px;
+    margin-bottom: 400px;
+    margin-top: 300px;
+    border-radius: 2px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    color: black;
+    justify-content: space-around;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rosybrown;
+    block-size: 100px;
+    align-items: center;
+    border-radius: 2px;
+}
